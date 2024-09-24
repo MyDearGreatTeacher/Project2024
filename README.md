@@ -1,7 +1,7 @@
 # Project2024
 - Python
 - 爬蟲
-- 資料庫
+- 存取資料庫
 - 股票分析
 - Data science
   - Numpy
