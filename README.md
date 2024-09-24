@@ -15,4 +15,10 @@
 - AI
   - Tensorflow
   - PyTorch 
-- OPENAI
+- GenAI
+  - OPENAI
+  - Langchain
+
+
+
+# 專案開發架構
