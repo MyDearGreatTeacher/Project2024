@@ -17,8 +17,10 @@
   - Tensorflow
   - PyTorch 
 - GenAI
-  - OPENAI
+  - OPENAI  https://platform.openai.com/docs/overview
   - Langchain
+    - https://www.langchain.com/
+    - https://python.langchain.com/v0.2/docs/tutorials/ 
 
 
 
