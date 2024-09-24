@@ -1,5 +1,6 @@
 # Project2024
 - Python
+  - https://www.w3schools.com/python/default.asp 
 - 爬蟲
 - 存取資料庫
 - 股票分析
